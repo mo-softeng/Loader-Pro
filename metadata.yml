@@ -1,0 +1,18 @@
+---
+:id: 5656644
+:submitters:
+- :name: Mo Osman
+  :email: moosman@cmail.carleton.ca
+- :name: Adam Van De Visch
+  :email: adamvandevisch@cmail.carleton.ca
+- :name: Arushi Dutta
+  :email: arushidutta@cmail.carleton.ca
+- :name: Sonai Haghgooie
+  :email: sonaihaghgooie@cmail.carleton.ca
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-04-11 00:43:27.552376000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-04-10 17:43:27.552376000 Z
+:status: processed
+:score: 10.0
